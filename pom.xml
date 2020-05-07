@@ -4,7 +4,7 @@
   <artifactId>sc-java-testing</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  	<repositories>
+  	 <repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
@@ -46,11 +46,7 @@
 			<version>3.5.2</version>
 		</dependency>
 
-		<dependency>
-		    <groupId>com.github.geekdenz</groupId>
-		    <artifactId>selenium-cucumber-java</artifactId>
-		    <version>0.1.8</version>
-		</dependency>
+		
 	</dependencies>
 
 	<build>
